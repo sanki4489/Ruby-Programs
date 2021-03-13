@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 #Used IRB to run this program
 
 

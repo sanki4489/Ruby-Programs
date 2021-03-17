@@ -18,3 +18,6 @@ Q: program to take words as input from user and turn them into sentences.
 Program 5: Pig Latin
 Q: Write a Ruby script which converts a single word into pig latin.
    Pig latin is a children game where words  are converted into alternative versions according to a set of simple rules.
+
+
+Status:Complete
